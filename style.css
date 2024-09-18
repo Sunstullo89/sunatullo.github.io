@@ -50,6 +50,7 @@ img{
 
 /* ҳамкорони мо */
 .topdiv{
+  background-image: linear-gradient(to right, #000, #000, red);
   background: #000;
   border: 3px solid #808080;
   border-radius: 7px;
