@@ -31,7 +31,7 @@ function collect() {
     updateBots();
     saveData(); // Маълумотни саклаш
   } else {
-    alert("В данный момент у вас нет 200 монет.");
+    
   }
 }
 
@@ -43,7 +43,7 @@ function sell() {
     updateStorage();
     saveData(); // Маълумотни саклаш
   } else {
-    alert("В данный момент у вас нет 5,000 монет.");
+    
   }
 }
 
@@ -55,7 +55,7 @@ function buy() {
     updateTajcoin();
     saveData(); // Маълумотни саклаш
   } else {
-    alert("В данный момент у вас нет 1,00000 монет.");
+    
   }
 }
 
